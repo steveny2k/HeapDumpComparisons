@@ -1,0 +1,28 @@
+repo_name: steveny2k/HeapDumpComparisons
+report_id: 5261af4b7b69f505e45e659666c7a454
+repo_type: Public
+timestamp: '2023-11-10T09:29:33+00:00'
+requested_by: SimonHGR
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Scala
+  description: A pure-bred object-oriented language that runs on the JVM
+  website_url: http://www.scala-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
